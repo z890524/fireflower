@@ -1,0 +1,1 @@
+利用canvas 以及 原生 javascript 制作的烟花效果. 不依赖其他类库.
